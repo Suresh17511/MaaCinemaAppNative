@@ -12,8 +12,10 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@types/html-minifier-terser": "^6.1.0",
     "react": "17.0.2",
     "react-native": "0.68.2",
+    "react-native-config": "^1.4.6",
     "tailwind-rn": "^4.0.0",
     "tailwind-rn-3": "npm:tailwind-rn@^3.0.0",
     "tailwindcss-react-native": "^1.7.10"
